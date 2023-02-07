@@ -1,2 +1,2 @@
 # scaling-barnacle-oscar
-# Communicating on a local server 
+# Learning to communicate with your friendly local server
