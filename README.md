@@ -49,4 +49,4 @@ https://gitforwindows.org/
 
 # Congrats!
 
-on now knowing how to build and test your web applications on a local server!
+on knowing how to build and test your web applications on a local server!
