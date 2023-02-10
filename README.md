@@ -1,7 +1,8 @@
 # Learning to communicate with your friendly local server
 ## With Node, Express, and Git.
 
-First, let's download Node! https://nodejs.dev/en/ <--Embed link in word 'Node'?-->
+First, let's download Node! https://nodejs.dev/en/ 
+<img width="1196" alt="Screenshot 2023-02-10 at 2 50 16 PM" src="https://user-images.githubusercontent.com/92462575/218196757-0cc37418-7a99-4beb-ba76-6d07fc04c5cf.png">
 
 Ensure that Git is downloaded as well. https://gitforwindows.org/ <--Embed link in word 'Git'?-->
 
