@@ -21,7 +21,10 @@ Now that we have Node and Git installed, let's create a new working directory.
 8. Ensure you are working in this new directory 'Example' (cd Example)
 9. Now, let's ensure we have Express installed
 10. npm i express
-11. Upon installing Express, a package-lock.json file and package.json file will be created in your directory. <---file npmiexpress-->
+11. Upon installing Express, a package-lock.json file and package.json file will be created in your directory.
+
+<img width="1112" alt="Screenshot 2023-02-10 at 3 17 15 PM" src="https://user-images.githubusercontent.com/92462575/218199588-9c0e0c86-c74a-496e-a1a4-7d843d87bd3f.png">
+
 12. Now let's set up our localhost server
 13. Add this code to app.js <--file codeexample-->
 14. Let's get this bad boy running
