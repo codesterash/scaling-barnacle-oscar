@@ -27,6 +27,9 @@ Now that we have Node and Git installed, let's create a new working directory.
 
 12. Now let's set up our localhost server
 13. Add this code to app.js <--file codeexample-->
+
+<img width="1048" alt="Screenshot 2023-02-10 at 3 22 22 PM" src="https://user-images.githubusercontent.com/92462575/218200051-a1ee9f51-92c6-4dec-9fe8-b9c084c14ef3.png">
+
 14. Let's get this bad boy running
 15. node app.js
 16. Upon running the above command, your terminal should tell you that it's listening in on your port <--file runningport-->
